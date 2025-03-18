@@ -26,6 +26,8 @@
     "molten_metals:molten_bismuth"
   ]
 
+- init Kucing's Various Fix; yung compat, lightman's currency compat (disabled), farm delight compat, wither skeleton loottables, apple press loottables, and haunting infested_block.
+- change datapack format to 15
 
 todo:
 - change the recipes of the rest of "actor" blocks from create mod to increase difficulty
