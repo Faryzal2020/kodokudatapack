@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "iceandfire:raw_silver",
+      "required": false
+    },
+    {
+      "id": "iceandfire:silver_ore",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deepslate_silver_ore",
+      "required": false
+    },
+    {
+      "id": "witcher_rpg:raw_silver",
+      "required": false
+    },
+    {
+      "id": "witcher_rpg:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "iceandfire:silver_ingot",
+      "required": false
+    }
+  ]
+}

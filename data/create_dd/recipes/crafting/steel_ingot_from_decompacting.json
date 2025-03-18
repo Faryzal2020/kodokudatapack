@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:steel_storage_blocks"
+    }
+  ],
+  "result": {
+    "item": "witcher_rpg:steel_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "createdeco:industrial_iron_ingot"
+    },
+    "B": {
+      "item": "create_netherless:ectoplasm"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    },
+    "I": {
+      "item": "create:precision_mechanism"
+    },
+    "L": {
+      "tag": "c:brass_plates"
+    }
+  },
+  "pattern": [
+    "LLA",
+    "LB ",
+    "IC "
+  ],
+  "result": {
+    "item": "create:mechanical_arm"
+  },
+  "show_notification": true
+}

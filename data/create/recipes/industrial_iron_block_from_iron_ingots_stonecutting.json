@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "count": 9,
+    "item": "createdeco:industrial_iron_ingot"
+  },
+  "result": "create:industrial_iron_block"
+}

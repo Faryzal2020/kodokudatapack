@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "oreganized:raw_silver",
+      "required": false
+    },
+    {
+      "id": "galosphere:raw_silver",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:raw_silver",
+      "required": false
+    },
+    "create:crushed_raw_silver",
+    {
+      "id": "#c:silver_ores",
+      "required": false
+    },
+    {
+      "id": "#spelunkery:silver_ores",
+      "required": false
+    },
+    {
+      "id": "#kodoku:meltable_silvers",
+      "required": false
+    }
+  ]
+}

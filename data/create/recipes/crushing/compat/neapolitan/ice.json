@@ -1,0 +1,28 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "neapolitan"
+      ]
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "chance": 0.25,
+      "count": 3,
+      "item": "neapolitan:ice_cubes"
+    }
+  ]
+}

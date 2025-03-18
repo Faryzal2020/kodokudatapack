@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "molten_metals:meltable_netherite_ingots"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "molten_metals:molten_netherite",
+      "amount": 9000
+    },
+    {
+      "item": "molten_metals:slag"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "molten_metals:molten_silver",
+      "amount": 9000
+    }
+  ],
+  "results": [
+    {
+      "item": "iceandfire:silver_ingot"
+    }
+  ]
+}

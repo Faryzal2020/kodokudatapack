@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.08,
+      "item": "minecraft:infested_stone"
+    }
+  ]
+}

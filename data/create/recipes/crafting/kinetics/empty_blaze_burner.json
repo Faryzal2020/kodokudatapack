@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:netherrack"
+    },
+    "B": {
+      "item": "create_netherless:coal_rod"
+    },
+    "C": {
+      "item": "create_netherless:ectoplasm"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BAB"
+  ],
+  "result": {
+    "item": "create:empty_blaze_burner"
+  },
+  "show_notification": true
+}

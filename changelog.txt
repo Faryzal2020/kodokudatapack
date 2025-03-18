@@ -1,0 +1,32 @@
+- removed smelting and blasting for all (almost) iron, copper, gold, and netherite INGOT
+- changed horse armor crushing recipe to not produce ingots but nuggets instead
+- changed industrial iron block recipe in stonecutting from iron to industrial iron ingot
+- adjusted recipes: prismarine alloy, mechanical press, mechanical drill, propeller, whisk
+
+- adjusted mixing recipe for: andesite alloy
+- changed recipe for mechanical press, mechanical drill, mechanical saw, millstone, mechanical bearing, cart assembler, empty blaze burner, brass hand, clockwork bearing, windmill bearing, chute
+- added recipe for witcherrpg steel ingot from compacting molten steel
+
+- adjusted recipe for windmill bearing, mechanical bearing, clockwork bearing, schematic cannon, gantry shaft, gantry carriage, steam engine, mechanical pump, mechanical roller, rotation speed controller, cart assembler
+- removed cast iron block recipe from compacting
+- adjusted sequenced recipe for precision mechanism
+
+- added new tag for molten bronze to alternate between createbigcannons and molten_metals version
+- removed molten andesite alloy recipe from mixing crushed andesite and iron/zinc nugget
+- added andesite alloy recipe from washing andesite alloy in a mold
+- added new tag for meltable silvers from iceandfire
+- added mixing recipe for molten silver from silver nuggets (iceandfire) and raw silver tag (molten metals)
+- added compacting recipe for silver ingot (iceandfire) from molten silver
+- removed smelting and blasting recipe of silver ingot
+
+"blacklisted_items": [
+    "witcher_rpg:silver_ingot",
+    "witcher_rpg:silver_ore",
+    "witcher_rpg:deepslate_silver_ore",
+    "molten_metals:molten_bismuth"
+  ]
+
+
+todo:
+- change the recipes of the rest of "actor" blocks from create mod to increase difficulty
+- remove smelting alloying recipes for betterend ingots

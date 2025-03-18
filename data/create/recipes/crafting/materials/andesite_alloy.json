@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "B": {
+      "item": "minecraft:raw_iron"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "BAB",
+    "BAB"
+  ],
+  "result": {
+    "count": 3,
+    "item": "create:andesite_alloy"
+  },
+  "show_notification": true
+}

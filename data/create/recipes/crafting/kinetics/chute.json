@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:iron_plates"
+    },
+    "I": {
+      "item": "createdeco:industrial_iron_ingots"
+    }
+  },
+  "pattern": [
+    "I I",
+    "I I",
+    "A A"
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:chute"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "witcher_rpg:dark_iron_ingot"
+    },
+    "P": {
+      "item": "create:linear_chassis"
+    },
+    "S": {
+      "item": "createbigcannons:nethersteel_block"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    "AAPAA",
+    "APSPA",
+    "AAPAA",
+    " AAA "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:crushing_wheel"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "witcher_rpg:dark_iron_ingot"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "RAR",
+    "RAR",
+    "RAR"
+  ],
+  "result": {
+    "count": 8,
+    "item": "create:gantry_shaft"
+  },
+  "show_notification": true
+}

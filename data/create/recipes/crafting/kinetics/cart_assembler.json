@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "betterend:terminite_block"
+    },
+    "C": {
+      "item": "create_aquatic_ambitions:prismarine_alloy"
+    },
+    "L": {
+      "item": "create:sturdy_sheet"
+    },
+    "R": {
+      "item": "create:mechanical_crafter"
+    }
+  },
+  "pattern": [
+    "CRC",
+    "L L",
+    "B B"
+  ],
+  "result": {
+    "item": "create:cart_assembler"
+  },
+  "show_notification": true
+}

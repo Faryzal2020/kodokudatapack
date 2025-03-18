@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "create_aquatic_ambitions:prismarine_alloy"
+    },
+    "S": {
+      "item": "createdeco:industrial_iron_sheet"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SCS",
+    " S "
+  ],
+  "result": {
+    "item": "create:propeller"
+  },
+  "show_notification": true
+}

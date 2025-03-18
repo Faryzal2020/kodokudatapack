@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cP",
+    "Pc"
+  ],
+  "key": {
+    "c": {
+      "item": "illagerinvasion:platinum_sheet"
+    },
+    "P": {
+      "item": "minecraft:prismarine"
+    }
+  },
+  "result": {
+    "item": "create_aquatic_ambitions:prismarine_alloy",
+    "count": 1
+  }
+}

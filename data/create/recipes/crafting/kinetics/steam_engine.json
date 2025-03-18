@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "witcher_rpg:dark_steel_ingot"
+    },
+    "B": {
+      "item": "createbigcannons:cast_iron_ingot"
+    },
+    "C": {
+      "tag": "c:copper_blocks"
+    },
+    "P": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    " PB",
+    " AB",
+    " C "
+  ],
+  "result": {
+    "item": "create:steam_engine"
+  },
+  "show_notification": true
+}

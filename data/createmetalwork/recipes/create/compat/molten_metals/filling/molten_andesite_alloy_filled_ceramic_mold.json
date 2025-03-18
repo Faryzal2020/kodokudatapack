@@ -1,0 +1,31 @@
+{
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "molten_metals"
+            ]
+        },
+        {
+            "condition": "fabric:tags_populated",
+            "values": [
+                "c:molten_andesite_alloy_bucket"
+            ]
+        }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "molten_metals:ceramic_ingot_mold"
+        },
+        {
+            "fluidTag": "c:molten_andesite_alloy",
+            "amount": 9000
+        }
+    ],
+    "results": [
+        {
+            "item": "createmetalwork:molten_andesite_alloy_ceramic_ingot_mold"
+        }
+    ]
+}
