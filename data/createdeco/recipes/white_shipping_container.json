@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "C": {
+      "item": "minecraft:white_dye"
+    },
+    "S": {
+      "tag": "c:iron_plates"
+    }
+  },
+  "pattern": [
+    "CS",
+    "SB"
+  ],
+  "result": {
+    "item": "createdeco:white_shipping_container"
+  },
+  "show_notification": true
+}

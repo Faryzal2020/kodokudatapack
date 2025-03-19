@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:gold_nuggets"
+    }
+  ],
+  "results": [
+    {
+      "item": "createdeco:gold_coin"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:chiseled_stone_bricks"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.08,
+      "item": "minecraft:infested_chiseled_stone_bricks"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Various Fix's","bold":true,"underlined":true,"color":"red"},{"text":" by ","color":"gray"},{"text":"Faryzal2020 & Kucing","bold":true,"underlined":true,"color":"green"},"\n","\n",{"text":"Load Success!","bold":true,"color":"yellow"}]

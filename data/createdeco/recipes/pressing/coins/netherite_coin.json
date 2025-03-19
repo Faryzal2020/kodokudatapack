@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:netherite_nuggets"
+    }
+  ],
+  "results": [
+    {
+      "item": "createdeco:netherite_coin"
+    }
+  ]
+}
