@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "A": {
-      "item": "createdeco:industrial_iron_ingot"
+      "tag": "c:industrial_iron_ingots"
     },
     "C": {
       "item": "create:andesite_casing"

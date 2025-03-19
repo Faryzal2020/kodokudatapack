@@ -6,7 +6,7 @@
       "tag": "c:iron_plates"
     },
     "I": {
-      "item": "createdeco:industrial_iron_ingots"
+      "tag": "c:industrial_iron_ingots"
     }
   },
   "pattern": [

@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create_dd:bronze_drill"
+    },
+    "B": {
+      "item": "create_dd:infernal_mechanism"
+    },
+    "C": {
+      "item": "create_dd:stargaze_singularity_casing"
+    },
+    "D": {
+      "item": "soulsweapons:crimson_ingot"
+    },
+    "E": {
+      "item": "twilightforest:fiery_ingot"
+    },
+    "F": {
+      "item": "betterend:aeternium_ingot"
+    }
+  },
+  "pattern": [
+    "  F  ",
+    " FBF ",
+    "FDADF",
+    " ECE "
+  ],
+  "result": {
+    "count": 2,
+    "item": "create_dd:radiant_drill"
+  }
+}

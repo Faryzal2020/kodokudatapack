@@ -4,26 +4,22 @@
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "create",
+                "createbigcannons",
                 "molten_metals"
             ]
         }
     ],
     "type": "create:mixing",
-    "heatRequirement": "heated",
+    "heatRequirement": "superheated",
     "ingredients": [
         {
-            "amount": 18000,
-            "fluidTag": "c:molten_andesite"
-        },
-        {
-            "amount": 18000,
-            "fluidTag": "c:molten_zinc"
+            "tag": "molten_metals:meltable_raw_iron"
         }
     ],
     "results": [
         {
-            "amount": 18000,
-            "fluid": "createmetalwork:molten_andesite_alloy"
+            "amount": 9000,
+            "fluid": "createbigcannons:molten_cast_iron"
         },
         {
             "item": "molten_metals:slag"

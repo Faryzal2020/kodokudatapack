@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "A": {
-      "item": "create:precision_mechanism"
+      "item": "create:copper_casing"
     },
     "B": {
-      "item": "betterend:terminite_forged_plate"
+      "item": "create:rope_pulley"
     },
     "C": {
-      "item": "create:brass_casing"
+      "item": "minecraft:dried_kelp_block"
     }
   },
   "pattern": [
@@ -18,7 +18,7 @@
     "C"
   ],
   "result": {
-    "item": "create:rotation_speed_controller"
+    "item": "create:hose_pulley"
   },
   "show_notification": true
 }

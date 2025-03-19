@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D ",
+    "CA",
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "witcher_rpg:dark_steel_ingot"
+    },
+    "B": {
+      "item": "create:crushing_wheel"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "D": {
+      "item": "create_dd:inductive_mechanism"
+    }
+  },
+  "result": {
+    "item": "create:mechanical_roller",
+    "count": 2
+  }
+}

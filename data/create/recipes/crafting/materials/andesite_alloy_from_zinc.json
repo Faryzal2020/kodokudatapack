@@ -6,16 +6,16 @@
       "item": "minecraft:andesite"
     },
     "B": {
-      "item": "create:zinc_ingot"
+      "item": "create:zinc_nugget"
     }
   },
   "pattern": [
-    "BAB",
-    "BAB",
-    "BAB"
+    "AAA",
+    "BBB",
+    "AAA"
   ],
   "result": {
-    "count": 3,
+    "count": 1,
     "item": "create:andesite_alloy"
   },
   "show_notification": true

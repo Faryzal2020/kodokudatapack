@@ -1,0 +1,25 @@
+{
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "molten_metals"
+            ]
+        }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "molten_metals:ceramic_ingot_mold"
+        },
+        {
+            "fluid": "createbigcannons:molten_nethersteel",
+            "amount": 9000
+        }
+    ],
+    "results": [
+        {
+            "item": "createmetalwork:molten_nethersteel_ceramic_ingot_mold"
+        }
+    ]
+}

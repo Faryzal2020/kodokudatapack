@@ -1,9 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
   "key": {
     "A": {
-      "item": "create:precision_mechanism"
+      "item": "create_dd:integrated_mechanism"
     },
     "B": {
       "item": "betterend:terminite_forged_plate"
@@ -12,13 +16,8 @@
       "item": "create:brass_casing"
     }
   },
-  "pattern": [
-    "A",
-    "B",
-    "C"
-  ],
   "result": {
-    "item": "create:rotation_speed_controller"
-  },
-  "show_notification": true
+    "item": "create:rotation_speed_controller",
+    "count": 2
+  }
 }

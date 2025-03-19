@@ -1,16 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    "###",
+    "# #",
+    "# #",
     "###"
   ],
   "key": {
     "#": {
-      "tag": "c:steel_nuggets"
+      "tag": "c:industrial_iron_sheets"
     }
   },
   "result": {
-      "tag": "c:steel_ingots"
+    "item": "minecraft:cauldron",
+    "count": 1
   }
 }

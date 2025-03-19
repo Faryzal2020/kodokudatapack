@@ -19,6 +19,18 @@
 - added compacting recipe for silver ingot (iceandfire) from molten silver
 - removed smelting and blasting recipe of silver ingot
 
+- removed recipes from create_dd for: activator rail, anvil, basin, blast_furnace, chain, detector_rail, empty_blaze_burner, mechanical drill, mechanical harvester, mechanical plough, mechanical press, rail, smithing table
+- removed compacting recipe for industrial iron ingot (create deco)
+- readjusted crafting and mixing recipe for andesite alloy
+- adjusted recipes from create_dd for: industrial fan, hydraulic press, bronze saw, bronze drill
+- removed compacting recipe for cast iron ingot and bronze ingot from molten
+- added filling cast recipe for: cast iron, mythril
+- changed recipe for molten cast iron mixing from needing crushed raw iron to meltable raw iron
+- removed mixing recipe for mithril ingot, bronze ingot
+- added milling recipe for rough cinnabar, cinder flour
+- added custom recipe for radiant drill and shadow drill
+- adjusted recipes for cauldron and chute
+
 "blacklisted_items": [
     "witcher_rpg:silver_ingot",
     "witcher_rpg:silver_ore",

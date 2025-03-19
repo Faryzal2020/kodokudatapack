@@ -3,13 +3,13 @@
   "acceptMirrored": false,
   "key": {
     "A": {
-      "item": "create_dd:steel_sheet"
+      "tag": "minecraft:planks"
     },
     "P": {
-      "item": "create:linear_chassis"
+      "tag": "minecraft:logs"
     },
     "S": {
-      "item": "createbigcannons:nethersteel_block"
+      "item": "create:water_wheel"
     }
   },
   "pattern": [
@@ -21,6 +21,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "create:crushing_wheel"
+    "item": "create:large_water_wheel"
   }
 }

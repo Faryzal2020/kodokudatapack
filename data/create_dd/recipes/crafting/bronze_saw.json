@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "create:mechanical_saw"
+    },
+    "B": {
+      "tag": "c:strong_bronze_plates"
+    },
+    "D": {
+      "item": "create_dd:bronze_casing"
+    }
+  },
+  "result": {
+    "item": "create_dd:bronze_saw",
+    "count": 1
+  }
+}

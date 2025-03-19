@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:andesite_casing"
+    },
+    "C": {
+      "item": "brewery:rope"
+    },
+    "D": {
+      "item": "create:shaft"
+    },
+    "E": {
+      "item": "create:cogwheel"
+    },
+    "I": {
+      "item": "create_dd:steel_sheet"
+    }
+  },
+  "pattern": [
+    "DBE",
+    "CCC",
+    " I "
+  ],
+  "result": {
+    "item": "create:rope_pulley"
+  },
+  "show_notification": true
+}
