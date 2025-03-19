@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "c:copper_blocks"
+  },
+  "result": "createdeco:copper_hull"
+}

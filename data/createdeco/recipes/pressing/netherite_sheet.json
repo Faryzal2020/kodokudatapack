@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:netherite_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "createdeco:netherite_sheet"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:iron_nuggets"
+    }
+  ],
+  "results": [
+    {
+      "item": "createdeco:iron_coin"
+    }
+  ]
+}

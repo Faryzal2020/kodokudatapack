@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:andesite_alloy_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "createdeco:andesite_sheet"
+    }
+  ]
+}
