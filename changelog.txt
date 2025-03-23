@@ -33,3 +33,6 @@
 
 - init Kucing's Various Fix; yung compat, lightman's currency compat (disabled), farm delight compat, wither skeleton loottables, apple press loottables, and haunting infested_block.
 - change datapack format to 15
+
+- Clean createdeco data
+- Changed Recipe Bronze Ingot, Lapis Alloy, Andesit Alloy, and Tin Alloy

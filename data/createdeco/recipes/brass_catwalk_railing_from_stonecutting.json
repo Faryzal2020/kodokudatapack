@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 8,
-  "ingredient": {
-    "tag": "c:brass_ingots"
-  },
-  "result": "createdeco:brass_catwalk_railing"
-}

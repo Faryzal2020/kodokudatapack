@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 4,
-  "ingredient": {
-    "tag": "c:iron_ingots"
-  },
-  "result": "createdeco:iron_mesh_fence"
-}

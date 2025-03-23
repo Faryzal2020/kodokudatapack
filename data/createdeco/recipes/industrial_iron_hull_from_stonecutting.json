@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "tag": "c:industrial_iron_blocks"
-  },
-  "result": "createdeco:industrial_iron_hull"
-}

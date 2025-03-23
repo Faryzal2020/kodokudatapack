@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 4,
-  "ingredient": {
-    "tag": "c:andesite_alloy_ingots"
-  },
-  "result": "createdeco:andesite_catwalk"
-}

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 2,
-  "ingredient": {
-    "tag": "c:copper_ingots"
-  },
-  "result": "createdeco:copper_catwalk_stairs"
-}

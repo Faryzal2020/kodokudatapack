@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "tag": "c:iron_plates"
-  },
-  "result": "createdeco:decal_top_right"
-}

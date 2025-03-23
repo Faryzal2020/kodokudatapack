@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:lapis"
+    },
+    "B": {
+      "tag": "create_dd:tin_block"
+    }
+  },
+  "result": {
+    "item": "create_dd:lapis_alloy",
+    "count": 9
+  }
+}
