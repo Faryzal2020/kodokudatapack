@@ -2,16 +2,18 @@
   "type": "create:mixing",
   "ingredients": [
     {
+      "count": 6,
       "item": "minecraft:andesite"
     },
     {
-      "count": 2,
+      "count": 3,
       "item": "minecraft:raw_iron"
     }
   ],
   "results": [
     {
-      "item": "create:andesite_alloy"
+      "item": "create:andesite_alloy",
+      "count": 7
     }
   ]
 }
