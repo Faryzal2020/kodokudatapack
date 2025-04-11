@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C":{
+      "item": "create:cogwheel"
+    },
+    "P":{
+      "item": "create:fluid_pipe"
+    },
+    "I":{
+      "item": "#c:iron_blocks"
+    }
+  },
+  "pattern":[
+    "III",
+    "CPC",
+    "III"
+  ],
+  "result": {
+    "item": "create:mechanical_pump"
+  }
+}
