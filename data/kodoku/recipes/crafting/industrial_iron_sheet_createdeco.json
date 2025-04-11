@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_dd:industrial_iron_sheet"
+    }
+  ],
+  "result": {
+    "item": "createdeco:industrial_iron_sheet"
+  }
+}

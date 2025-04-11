@@ -1,7 +1,6 @@
 {
-  "replace": true,
   "values": [
-    "create_dd:industrial_iron_sheet"
+    "create_dd:industrial_iron_sheet",
     "createdeco:industrial_iron_sheet"
   ]
 }
