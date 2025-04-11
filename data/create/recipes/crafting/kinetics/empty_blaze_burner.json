@@ -9,7 +9,7 @@
       "item": "create_netherless:coal_rod"
     },
     "C": {
-      "item": "create_netherless:ectoplasm"
+      "tag": "c:ectoplasm"
     }
   },
   "pattern": [
