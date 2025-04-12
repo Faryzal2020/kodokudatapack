@@ -1,4 +1,5 @@
 {
+  "replace":"true",
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -7,9 +8,11 @@
     },
     {
       "item": "minecraft:lead"
-    }
+    },
+    { "item": "minecraft:gold_ingot" }
   ],
   "result": {
-    "item": "zenith:ender_lead"
+    "item": "zenith:ender_lead",
+    "count": 1
   }
 }

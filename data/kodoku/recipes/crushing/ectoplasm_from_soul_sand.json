@@ -1,0 +1,39 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_sand"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "spelunkery:basalt_pebble"
+    },
+    {
+      "chance": 0.15,
+      "item": "minecraft:bone"
+    },
+    {
+      "chance": 0.15,
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "chance": 0.1,
+      "item": "spelunkery:sulfur"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:quartz"
+    },
+    {
+      "chance": 0.08,
+      "item": "spelunkery:raw_gold_nugget"
+    },
+    {
+      "chance": 0.05,
+      "item": "create_netherless:ectoplasm"
+    }
+  ]
+}
