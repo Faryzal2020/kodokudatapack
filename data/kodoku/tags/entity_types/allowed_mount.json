@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "mythicmounts:ridinglizard_spawn_egg",
+    "mythicmounts:firebird_spawn_egg",
+    "mythicmounts:geckotoalizard_spawn_egg",
+    "mythicmounts:archelon_spawn_egg",
+    "mythicmounts:griffon_spawn_egg",
+    "mythicmounts:courierbird_spawn_egg",
+    "mythicmounts:direwolf_spawn_egg",
+    "mythicmounts:nudibranch_spawn_egg",
+    "mythicmounts:netherbat_spawn_egg",
+    "mythicmounts:moth_spawn_egg",
+    "mythicmounts:acencia_spawn_egg",
+    "mythicmounts:nightmare_spawn_egg",
+    "mythicmounts:colelytra_spawn_egg",
+    "mythicmounts:dragon_spawn_egg"
+  ]
+}
