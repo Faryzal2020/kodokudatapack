@@ -1,0 +1,25 @@
+{
+  "type": "prefabricated:condition_crafting_shaped",
+  "configName": "Bulldozer",
+  "group": "Bulldozer",
+  "pattern": [
+    "aca",
+    "bab",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "b": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "c": {
+      "tag": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "prefabricated:item_bulldozer",
+    "count": 1
+  }
+}
